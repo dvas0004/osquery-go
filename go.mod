@@ -6,8 +6,8 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/pkg/errors v0.8.0
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/stretchr/testify v1.2.2
-	golang.org/x/sys v0.0.0-20210603125802-9665404d3644 // indirect
+	github.com/shirou/gopsutil/v3 v3.21.8 // indirect
+	github.com/stretchr/testify v1.7.0
 )
 
 go 1.13
